@@ -19,7 +19,7 @@ Double-click the downloaded file, click "Next" through the setup wizard, and fin
 1. Open VS Code.
 2. Sign in with your GitHub account (Accounts icon in the bottom-left corner).
 3. Use `Ctrl+Shift+P` -> "Git: Clone" to pull down any of your repos.
-4. Also, Pull up a New terminal and introduce who you are by typing:
+4. Also, Pull up a New terminal and introduce who you are by typing: <br>
 git config --global user.email "youractualemail@example.com"
 git config --global user.name "Your Actual Name"
 
