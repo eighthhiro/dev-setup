@@ -29,6 +29,6 @@ git config --global user.name "Your Actual Name"
 Replace the email and name with your own. This only needs to be done once per machine.
 
 That's it -- Git and VS Code are ready to use.
-Don't forget to setup your physical environment by grabbing coffee and to listen to this.
 
+Don't forget to setup your physical environment by grabbing coffee and to listen to this.
 https://mynoise.net/NoiseMachines/whiteNoiseGenerator.php
