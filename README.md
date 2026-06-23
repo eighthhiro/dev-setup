@@ -19,8 +19,13 @@ Double-click the downloaded file, click "Next" through the setup wizard, and fin
 1. Open VS Code.
 2. Sign in with your GitHub account (Accounts icon in the bottom-left corner).
 3. Use `Ctrl+Shift+P` -> "Git: Clone" to pull down any of your repos.
-4. Also, Pull up a New terminal and introduce who you are by typing: <br>
-git config --global user.email "youractualemail@example.com" <br>
+4. Git needs to know who you are before it lets you commit. Open a terminal in VS Code (`Terminal -> New Terminal`) and run:
+ 
+```bash
+git config --global user.email "youractualemail@example.com"
 git config --global user.name "Your Actual Name"
+```
+ 
+Replace the email and name with your own. This only needs to be done once per machine.
 
 That's it -- Git and VS Code are ready to use.
